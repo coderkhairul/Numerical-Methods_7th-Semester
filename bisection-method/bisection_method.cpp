@@ -1,5 +1,8 @@
 // Bisection Method in C++
-// Author: Md. Khairul Islam
+// Author: Md.Khairul Islam
+// Description: This program finds the root of the equation
+//              2x^3 - 2x - 5 = 0 using the Bisection Method
+
 #include <bits/stdc++.h>
 using namespace std;
 
