@@ -31,6 +31,6 @@ The root is: 1.59876
 
 👤 Author
 Md. Khairul Islam
-Student, Sonargaon University
+Student, B.Sc in CSE, Sonargaon University
 Country: Bangladesh 🇧🇩
 
